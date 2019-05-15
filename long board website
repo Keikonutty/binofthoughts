@@ -2,15 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Long board website</title>
+<title>Longboard Website</title>
 <style type="text/css">
 <!--
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #000000;
+	background-color: #5CDB95;
 	margin: 0;
 	padding: 0;
 	color: #000;
+	background-image: url(37816988-longboard-wallpaper.jpg);
 }
 
 /* ~~ Element/tag selectors ~~ */
@@ -20,8 +21,8 @@ ul, ol, dl { /* Due to variations between browsers, it's best practices to zero 
 }
 h1, h2, h3, h4, h5, h6, p {
 	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
-	padding-right: 15px;
-	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+	padding-right: 5px;
+	padding-left: 5px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
 	color: #000000;
 	font-size: 100%;
 }
@@ -31,7 +32,7 @@ a img { /* this selector removes the default blue border displayed in some brows
 
 /* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
 a:link {
-	color: #42413C;
+	color: #5CDB95;
 	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
 }
 a:visited {
@@ -45,7 +46,7 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 /* ~~this fixed width container surrounds the other divs~~ */
 .container {
 	width: 960px;
-	background-color: #B0C4DE;
+	background-color: #66FCF1;
 	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
 }
 
@@ -61,10 +62,12 @@ a:hover, a:active, a:focus { /* this group of selectors will give a keyboard nav
 	padding-bottom: 10px;
 }
 .content {
-
-	padding: 10px 0;
-	width: 780px;
+	width: auto;
 	float: left;
+	padding-top: 10px;
+	padding-right: 0;
+	padding-bottom: 10px;
+	padding-left: 0;
 }
 
 
@@ -94,7 +97,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 
 .footer {
 	padding: 10px 0;
-	background-color: # 666;
+	background-color: #5CDB95;
 	position: relative;
 	clear: both; 
 }
@@ -120,47 +123,60 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
 <body>
 
 <div class="container">
-  <div class="header"><!-- end .header --></div>
-  <div class="sidebar1">
-    <ul class="nav">
-      <li> </li>
-      <li> </li>
-      <li> </li>
-      <li> </li>
-    </ul>
-    <p>&nbsp;</p>
-    <!-- end .sidebar1 --></div>
   <div class="content">
-    <h1>How to build a longboard step by step</h1>
-    <p>&nbsp;</p>
+    <h1>How to build a longboard step by step    </h1>
     <h2>Step 1</h2>
-    <p>Choose the wood for your board,  we recommend birch it is very flexible and it's also very durable</p>
-    <p>Types of wood: Maple wood is really heavy and sturdy, mostly used for downhill riding. Only downside to maple is that its really heavy and this can be a problem to some riders who carry their board everywhere.<br />
-      Bamboo wood is very flexible and light, it is used for cruising since it easily rides over bumps and rough ground. Bamboo boards are also very good at turning.<br />
-      Birch wood is very flexible like bamboo and it has sturdiness like maple wood, it is used for riding anywhere, it can handle downhill speeding and also can cruise very well.</p>
+    <p>Choose the wood for your board,  we recommend baltic birch since it is very flexible and it's also very durable and also has the benefit of being inexpensive.</p>
+    <p><img src="LBM07_Long_board_veneer_1540__50430__59410.1428497460.1280.1232.jpg" width="100" height="100" align="right" /></p>
+    <p>Types of wood: Maple wood is really heavy and sturdy, mostly used for downhill riding. Only downside to maple is that its really heavy and this can be a problem to some riders who carry their board everywhere.</p>
+    <p><br />
+  </p>
+    <p><img src="BB010_Bamboo_veneer_10pack_1540__24907__64302.1428497466.1280.1232.jpg" width="100" height="100" align="right" /></p>
+    <p>Bamboo wood is very flexible and light, it is used for cruising since it easily rides over bumps and rough ground. Bamboo boards are also very good at turning.</p>
+    <p><br />
+    </p>
+    <p><img src="FWARZLMJQMOK1DH.LARGE.jpg" width="100" height="100" align="right" /></p>
+    <p>Baltic Birch wood is very flexible like bamboo and it has sturdiness like maple wood, it is used for riding anywhere, it can handle downhill speeding and also can cruise very well.</p>
+    <p>&nbsp;</p>
+      
     <h2>Step 2 </h2>
     <p>Choose your bearings,  bearings are rated by ABEC the higher the ABEC rating the more precise and accurate the bearing will be. The ABEC ratings are 1,3,5,7,9  </p>
-    <p>ABEC 1 bearings are the least expensive, and the worst crude, the quality of the steel is not very high<br />
-      ABEC 3 bearings are generally inexpensive and do not roll smooth or quickly <br />
-      ABEC 5 bearings are standard bearings for most types of skateboarding, ABEC 5 bearings provide a fast speed bearing at an affordable price.<br />
+    <p>&nbsp;</p>
+    <p><img src="61N61YqYM2L._SL1336_.jpg" width="100" height="100" align="right" /></p>
+    <p>ABEC 1 bearings are the least expensive, and the worst crude, the quality of the steel is not very high</p>
+    <p>&nbsp;</p>
+    <p><br />
+      <img src="81L7b5cYQ1L._SX425_.jpg" width="100" height="100" align="right" /></p>
+    <p>ABEC 3 bearings are generally inexpensive and do not roll smooth or quickly</p>
+    <p>&nbsp;</p>
+    <p> <br />
+      <img src="download.jfif" width="100" height="100" align="right" /></p>
+    <p>ABEC 5 bearings are standard bearings for most types of skateboarding, ABEC 5 bearings provide a fast speed bearing at an affordable price.</p>
+    <p>&nbsp;</p>
+    <p><img src="atom-abec7-2.jpg" width="100" height="100" align="right" /><br />
       ABEC 7 bearings are very fast and smooth, they cost slightly more than ABEC 5<br />
-    ABEC 9 bearings are the fastest bearings of them all, these are the best for downhill skating and skaters who want to cruise very fast.<br />
     </p>
     <p>&nbsp;</p>
-    <h2>Step 3 </h2>
-    <p>Choose your trucks, if you are wanting to speed downhill then you may want to buy Caliber trucks, they are the all around best buy<br />
-      Another set of really good trucks are Paris trucks, they are high quality and are easy to adjust <br />
-    If you are looking for the cheapest trucks you should buy Yoacher long board trucks, these are perfect for low cost setups if you pair them with a quality deck</p>
-    <h2>Step 4 </h2>
-    <p>Choose your wheels, There are different types of wheels for different environments, if you are looking to have a nice smooth ride your then sector 9 nine-balls are the best wheels for you. <br />
-    If you are looking to ride your long board downhill, your best bet is to buy sector 9 race formula wheels, the fastest wheels on the market currently are Seismic speed vent wheels, they are made of durable urethane for high speed racing.</p>
-    <h2>Step 5</h2>
-    <p>Choosing deck for your board, you can design your own board or you can choose to buy one already designed, we recommend buying pre-designed long boards off of https://www.warehouseskateboards.com/ if you choose to do so. 
-</p>
+    <p><img src="524549_524549_1.jfif" width="100" height="100" align="right" /></p>
+    <p>ABEC 9 bearings are the fastest bearings of them all, these are the best for downhill skating and skaters who want to cruise very fast.</p>
     <p><br />
-</p>
-    <p> </p>
-    <p> </p>
+    </p>
+    <h2>Step 3 </h2>
+    <p><img src="hd_product_Caliber-II-Grey-50_Deg-(Set-HD).png" width="100" height="100" align="right" />Choose your trucks, if you are wanting to speed downhill then you may want to buy Caliber trucks, they are the all around best buy.</p>
+    <p>&nbsp;</p>
+    <p><img src="hd_product_Paris_V2_Raw__Pair_.png" width="100" height="100" align="right" /><br />
+    Another set of really good trucks are Paris trucks, they are high quality and are easy to adjust.</p>
+    <p>&nbsp;</p>
+    <p><img src="6183jtYBzWL._SX466_.jpg" width="100" height="100" align="right" /><br />
+      If you are looking for the cheapest trucks you should buy Yoacher long board trucks, these are perfect for low cost setups if you pair them with a quality deck.</p>
+    <h2>Step 4 </h2>
+    <p><img src="ezgif-2-9f03c2c0ccaf.jpg" width="450" height="168" align="right" /></p>
+    <p>Wheels are the deciding factor on whether you want to slide or want a grippy setup. They also decide how fast you go or how slow you go.</p>
+    <p>&nbsp;</p>
+    <h2>Step 5</h2>
+    <h1 align="right">&nbsp;</h1>
+<p><img src="cruiser-boards-diagram1-1.jpg" width="304" height="207" align="right" />Choosing deck for your board, you can design your own board or you can choose to buy one already designed, we recommend buying pre-designed long boards off of https://www.warehouseskateboards.com/ if you choose to do so. 
+  </p>
   </div>
   <p align="center"><a href="mailto:acanso2019@gmail.com" class="header">Contact us</a> </p>
   </div>
