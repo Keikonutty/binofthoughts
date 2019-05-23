@@ -124,10 +124,7 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
   <div class="header"><!----></div>
   <div class="sidebar1">
     <ul class="nav">
-      <li> </li>
-      <li> </li>
-      <li> </li>
-      <li> </li>
+    
     </ul>
     <p>&nbsp;</p>
     <!-- end .sidebar1 --></div>
@@ -183,8 +180,8 @@ ul.nav a:hover, ul.nav a:active, ul.nav a:focus {
     <p> </p>
     <p> </p>
   </div>
-  <p align="center"><img src="contact-us-button.png" width="332" height="91" alt="c" /></p>
-  </div>
+  <p align="center"><a href="mailto:acanso2019@gmail.com"><img src="contact-us-button.png" width="332" height="91" alt="c" /></a></p>
+</div>
   </div>
 </body>
 </html>
